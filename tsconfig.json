@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "lib": [
+      "es2017",
+    ],
+    "strict": true,
+    "outDir": "dist",
+  },
+  "include": [
+    "src/**/*.ts",
+  ],
+}
