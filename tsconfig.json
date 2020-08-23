@@ -1,11 +1,10 @@
 {
   "compilerOptions": {
     "module": "amd",
-    "target": "es5",
-    "lib": [
-      "es2017",
-    ],
+    "target": "ES2018",
+    "lib": ["ESNext"],
     "strict": true,
+    "noEmit": true,
     "outDir": "dist",
   },
   "include": [
